@@ -1,0 +1,12 @@
+{
+    "environment 1": {
+        "standard user": {
+            "username": "username",
+            "password": "password"
+        },
+        "admin user": {
+            "username": "username",
+            "password": "password"
+        }
+    }
+}

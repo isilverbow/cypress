@@ -1,0 +1,27 @@
+{
+    "projectId": "qa",
+    "baseUrl": "https://wikipedia.org",
+    "testFiles": "cypress/**/*.spec.js",
+    "defaultCommandTimeout": 25000,
+    "retries": {
+        "runMode": 1,
+        "openMode": 0
+    },
+    "video": false,
+    "viewportHeight": 800,
+    "viewportWidth": 1450,
+    "integrationFolder": ".",
+    "numTestsKeptInMemory": 50,
+    "pageLoadTimeout": 60000,
+    "requestTimeout": 15000,
+    "responseTimeout": 30000,
+    "waitForAnimations": true,
+    "chromeWebSecurity": false,
+    "nodeVersion": "system",
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "reportDir": "cypress/report",
+        "charts": true,
+        "reportPageTitle": "My Test Run"
+    }
+}

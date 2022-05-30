@@ -1,0 +1,15 @@
+{
+    "cast": ["Simon Pegg", "Nick Frost", "Kate Ashfield"],
+    "keywords": ["pub", "friends", "satire", "parody"],
+    "fact-list": {
+        "Status": "Released",
+        "Original Language": "English",
+        "budget": "$4,000,000.00"
+    },
+    "release-info": {
+        "Release Date": "2004",
+        "Run Time": "1:39",
+        "Screenplay": "simon Pegg",
+        "Director": "Edgar Wright, Simon Pegg"
+    }
+}
